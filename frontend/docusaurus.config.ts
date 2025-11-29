@@ -83,8 +83,8 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          type: 'doc',
+          docId: 'module-1-ros2',
           position: 'left',
           label: 'Tutorial',
         },
@@ -109,7 +109,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: '/docs/module-1-ros2',
             },
           ],
         },
