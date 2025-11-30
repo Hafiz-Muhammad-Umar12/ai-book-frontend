@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://UmmeHabiba1312.github.io',
+  url: 'https://Hafiz-Muhammad-Umar12.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/AI-Native-Hackathon/',
+  baseUrl: '/ai-book-frontend/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'UmmeHabiba1312', // Usually your GitHub org/user name.
-  projectName: 'AI-Native-Hackathon', // Usually your repo name.
+  organizationName: 'Hafiz-Muhammad-Umar12', // Usually your GitHub org/user name.
+  projectName: 'ai-book-frontend', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   trailingSlash: false,
@@ -95,7 +95,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/UmmeHabiba1312/AI-Native-Hackathon',
+          href: 'https://github.com/Hafiz-Muhammad-Umar12/ai-book-frontend',
           label: 'GitHub',
           position: 'right',
         },
@@ -139,7 +139,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/Hafiz-Muhammad-Umar12/ai-book-frontend',
             },
           ],
         },
